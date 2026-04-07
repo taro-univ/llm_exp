@@ -1,0 +1,54 @@
+{
+  "per_n": [
+    {
+      "N": 2,
+      "trials": 3,
+      "mean_accuracy": 1.0,
+      "mean_token_count": 691.3,
+      "mean_final_score": 1.0
+    },
+    {
+      "N": 3,
+      "trials": 3,
+      "mean_accuracy": 1.0,
+      "mean_token_count": 1685.3,
+      "mean_final_score": 1.0
+    },
+    {
+      "N": 4,
+      "trials": 3,
+      "mean_accuracy": 0.3333,
+      "mean_token_count": 5238.3,
+      "mean_final_score": 0.3333
+    },
+    {
+      "N": 5,
+      "trials": 3,
+      "mean_accuracy": 0.0,
+      "mean_token_count": 7182.0,
+      "mean_final_score": 0.0
+    },
+    {
+      "N": 6,
+      "trials": 3,
+      "mean_accuracy": 0.0,
+      "mean_token_count": 4983.0,
+      "mean_final_score": 0.0
+    },
+    {
+      "N": 7,
+      "trials": 3,
+      "mean_accuracy": 0.0,
+      "mean_token_count": 41166.0,
+      "mean_final_score": 0.0
+    },
+    {
+      "N": 8,
+      "trials": 3,
+      "mean_accuracy": 0.0,
+      "mean_token_count": 16408.0,
+      "mean_final_score": -0.6667
+    }
+  ],
+  "total_trials": 21
+}

@@ -1,0 +1,33 @@
+{
+  "per_n": [
+    {
+      "N": 2,
+      "trials": 1,
+      "mean_accuracy": 1.0,
+      "mean_token_count": 622.0,
+      "mean_final_score": 1.0
+    },
+    {
+      "N": 3,
+      "trials": 1,
+      "mean_accuracy": 1.0,
+      "mean_token_count": 2186.0,
+      "mean_final_score": 1.0
+    },
+    {
+      "N": 4,
+      "trials": 1,
+      "mean_accuracy": 1.0,
+      "mean_token_count": 3394.0,
+      "mean_final_score": 1.0
+    },
+    {
+      "N": 5,
+      "trials": 1,
+      "mean_accuracy": 0.0,
+      "mean_token_count": 7072.0,
+      "mean_final_score": 0.0
+    }
+  ],
+  "total_trials": 4
+}

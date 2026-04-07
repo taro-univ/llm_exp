@@ -1,0 +1,1065 @@
+{
+  "N": 9,
+  "trial": 1,
+  "provider": "dummy",
+  "model": null,
+  "accuracy": 0,
+  "final_score": -0.8,
+  "token_count": 1910,
+  "move_count": 174,
+  "min_moves": 511,
+  "moves": [
+    "Move 1 from A to C",
+    "Move 2 from A to B",
+    "Move 1 from C to B",
+    "Move 3 from A to C",
+    "Move 1 from B to A",
+    "Move 2 from B to C",
+    "Move 1 from A to C",
+    "Move 4 from A to B",
+    "Move 1 from C to B",
+    "Move 2 from C to A",
+    "Move 1 from B to A",
+    "Move 3 from C to B",
+    "Move 1 from A to C",
+    "Move 2 from A to B",
+    "Move 1 from C to B",
+    "Move 5 from A to C",
+    "Move 1 from B to A",
+    "Move 2 from B to C",
+    "Move 1 from A to C",
+    "Move 3 from B to A",
+    "Move 1 from C to B",
+    "Move 2 from C to A",
+    "Move 1 from B to A",
+    "Move 4 from B to C",
+    "Move 1 from A to C",
+    "Move 2 from A to B",
+    "Move 1 from C to B",
+    "Move 3 from A to C",
+    "Move 1 from B to A",
+    "Move 2 from B to C",
+    "Move 1 from A to C",
+    "Move 6 from A to B",
+    "Move 1 from C to B",
+    "Move 2 from C to A",
+    "Move 1 from B to A",
+    "Move 3 from C to B",
+    "Move 1 from A to C",
+    "Move 2 from A to B",
+    "Move 1 from C to B",
+    "Move 4 from C to A",
+    "Move 1 from B to A",
+    "Move 2 from B to C",
+    "Move 1 from A to C",
+    "Move 3 from B to A",
+    "Move 1 from C to B",
+    "Move 2 from C to A",
+    "Move 1 from B to A",
+    "Move 5 from C to B",
+    "Move 1 from A to C",
+    "Move 2 from A to B",
+    "Move 1 from C to B",
+    "Move 3 from A to C",
+    "Move 1 from B to A",
+    "Move 2 from B to C",
+    "Move 1 from A to C",
+    "Move 4 from A to B",
+    "Move 1 from C to B",
+    "Move 2 from C to A",
+    "Move 1 from B to A",
+    "Move 3 from C to B",
+    "Move 1 from A to C",
+    "Move 2 from A to B",
+    "Move 1 from C to B",
+    "Move 7 from A to C",
+    "Move 1 from B to A",
+    "Move 2 from B to C",
+    "Move 1 from A to C",
+    "Move 3 from B to A",
+    "Move 1 from C to B",
+    "Move 2 from C to A",
+    "Move 1 from B to A",
+    "Move 4 from B to C",
+    "Move 1 from A to C",
+    "Move 2 from A to B",
+    "Move 1 from C to B",
+    "Move 3 from A to C",
+    "Move 1 from B to A",
+    "Move 2 from B to C",
+    "Move 1 from A to C",
+    "Move 5 from B to A",
+    "Move 1 from C to B",
+    "Move 2 from C to A",
+    "Move 1 from B to A",
+    "Move 3 from C to B",
+    "Move 1 from A to C",
+    "Move 2 from A to B",
+    "Move 1 from C to B",
+    "Move 4 from C to A",
+    "Move 1 from B to A",
+    "Move 2 from B to C",
+    "Move 1 from A to C",
+    "Move 3 from B to A",
+    "Move 1 from C to B",
+    "Move 2 from C to A",
+    "Move 1 from B to A",
+    "Move 6 from B to C",
+    "Move 1 from A to C",
+    "Move 2 from A to B",
+    "Move 1 from C to B",
+    "Move 3 from A to C",
+    "Move 1 from B to A",
+    "Move 2 from B to C",
+    "Move 1 from A to C",
+    "Move 4 from A to B",
+    "Move 1 from C to B",
+    "Move 2 from C to A",
+    "Move 1 from B to A",
+    "Move 3 from C to B",
+    "Move 1 from A to C",
+    "Move 2 from A to B",
+    "Move 1 from C to B",
+    "Move 5 from A to C",
+    "Move 1 from B to A",
+    "Move 2 from B to C",
+    "Move 1 from A to C",
+    "Move 3 from B to A",
+    "Move 1 from C to B",
+    "Move 2 from C to A",
+    "Move 1 from B to A",
+    "Move 4 from B to C",
+    "Move 1 from A to C",
+    "Move 2 from A to B",
+    "Move 1 from C to B",
+    "Move 3 from A to C",
+    "Move 1 from B to A",
+    "Move 2 from B to C",
+    "Move 1 from A to C",
+    "Move 8 from A to B",
+    "Move 1 from C to B",
+    "Move 2 from C to A",
+    "Move 1 from B to A",
+    "Move 3 from C to B",
+    "Move 1 from A to C",
+    "Move 2 from A to B",
+    "Move 1 from C to B",
+    "Move 4 from C to A",
+    "Move 1 from B to A",
+    "Move 2 from B to C",
+    "Move 1 from A to C",
+    "Move 3 from B to A",
+    "Move 1 from C to B",
+    "Move 2 from C to A",
+    "Move 1 from B to A",
+    "Move 5 from C to B",
+    "Move 1 from A to C",
+    "Move 2 from A to B",
+    "Move 1 from C to B",
+    "Move 3 from A to C",
+    "Move 1 from B to A",
+    "Move 2 from B to C",
+    "Move 1 from A to C",
+    "Move 4 from A to B",
+    "Move 1 from C to B",
+    "Move 2 from C to A",
+    "Move 1 from B to A",
+    "Move 3 from C to B",
+    "Move 1 from A to C",
+    "Move 2 from A to B",
+    "Move 1 from C to B",
+    "Move 6 from C to A",
+    "Move 1 from B to A",
+    "Move 2 from B to C",
+    "Move 1 from A to C",
+    "Move 3 from B to A",
+    "Move 1 from C to B",
+    "Move 2 from C to A",
+    "Move 1 from B to A",
+    "Move 4 from B to C",
+    "Move 1 from A to C",
+    "Move 2 from A to B",
+    "Move 9 from A to B",
+    "Move 9 from A to B",
+    "Move 9 from A to B",
+    "Move 9 from A to B"
+  ],
+  "trajectory": [
+    {
+      "step": 0,
+      "normalized_step": 0.0,
+      "score": 0.0
+    },
+    {
+      "step": 1,
+      "normalized_step": 0.001957,
+      "score": 0.0
+    },
+    {
+      "step": 2,
+      "normalized_step": 0.003914,
+      "score": 0.0
+    },
+    {
+      "step": 3,
+      "normalized_step": 0.005871,
+      "score": 0.0
+    },
+    {
+      "step": 4,
+      "normalized_step": 0.007828,
+      "score": 0.0
+    },
+    {
+      "step": 5,
+      "normalized_step": 0.009785,
+      "score": 0.0
+    },
+    {
+      "step": 6,
+      "normalized_step": 0.011742,
+      "score": 0.0
+    },
+    {
+      "step": 7,
+      "normalized_step": 0.013699,
+      "score": 0.0
+    },
+    {
+      "step": 8,
+      "normalized_step": 0.015656,
+      "score": 0.0
+    },
+    {
+      "step": 9,
+      "normalized_step": 0.017613,
+      "score": 0.0
+    },
+    {
+      "step": 10,
+      "normalized_step": 0.019569,
+      "score": 0.0
+    },
+    {
+      "step": 11,
+      "normalized_step": 0.021526,
+      "score": 0.0
+    },
+    {
+      "step": 12,
+      "normalized_step": 0.023483,
+      "score": 0.0
+    },
+    {
+      "step": 13,
+      "normalized_step": 0.02544,
+      "score": 0.0
+    },
+    {
+      "step": 14,
+      "normalized_step": 0.027397,
+      "score": 0.0
+    },
+    {
+      "step": 15,
+      "normalized_step": 0.029354,
+      "score": 0.0
+    },
+    {
+      "step": 16,
+      "normalized_step": 0.031311,
+      "score": 0.0
+    },
+    {
+      "step": 17,
+      "normalized_step": 0.033268,
+      "score": 0.0
+    },
+    {
+      "step": 18,
+      "normalized_step": 0.035225,
+      "score": 0.0
+    },
+    {
+      "step": 19,
+      "normalized_step": 0.037182,
+      "score": 0.0
+    },
+    {
+      "step": 20,
+      "normalized_step": 0.039139,
+      "score": 0.0
+    },
+    {
+      "step": 21,
+      "normalized_step": 0.041096,
+      "score": 0.0
+    },
+    {
+      "step": 22,
+      "normalized_step": 0.043053,
+      "score": 0.0
+    },
+    {
+      "step": 23,
+      "normalized_step": 0.04501,
+      "score": 0.0
+    },
+    {
+      "step": 24,
+      "normalized_step": 0.046967,
+      "score": 0.0
+    },
+    {
+      "step": 25,
+      "normalized_step": 0.048924,
+      "score": 0.0
+    },
+    {
+      "step": 26,
+      "normalized_step": 0.050881,
+      "score": 0.0
+    },
+    {
+      "step": 27,
+      "normalized_step": 0.052838,
+      "score": 0.0
+    },
+    {
+      "step": 28,
+      "normalized_step": 0.054795,
+      "score": 0.0
+    },
+    {
+      "step": 29,
+      "normalized_step": 0.056751,
+      "score": 0.0
+    },
+    {
+      "step": 30,
+      "normalized_step": 0.058708,
+      "score": 0.0
+    },
+    {
+      "step": 31,
+      "normalized_step": 0.060665,
+      "score": 0.0
+    },
+    {
+      "step": 32,
+      "normalized_step": 0.062622,
+      "score": 0.0
+    },
+    {
+      "step": 33,
+      "normalized_step": 0.064579,
+      "score": 0.0
+    },
+    {
+      "step": 34,
+      "normalized_step": 0.066536,
+      "score": 0.0
+    },
+    {
+      "step": 35,
+      "normalized_step": 0.068493,
+      "score": 0.0
+    },
+    {
+      "step": 36,
+      "normalized_step": 0.07045,
+      "score": 0.0
+    },
+    {
+      "step": 37,
+      "normalized_step": 0.072407,
+      "score": 0.0
+    },
+    {
+      "step": 38,
+      "normalized_step": 0.074364,
+      "score": 0.0
+    },
+    {
+      "step": 39,
+      "normalized_step": 0.076321,
+      "score": 0.0
+    },
+    {
+      "step": 40,
+      "normalized_step": 0.078278,
+      "score": 0.0
+    },
+    {
+      "step": 41,
+      "normalized_step": 0.080235,
+      "score": 0.0
+    },
+    {
+      "step": 42,
+      "normalized_step": 0.082192,
+      "score": 0.0
+    },
+    {
+      "step": 43,
+      "normalized_step": 0.084149,
+      "score": 0.0
+    },
+    {
+      "step": 44,
+      "normalized_step": 0.086106,
+      "score": 0.0
+    },
+    {
+      "step": 45,
+      "normalized_step": 0.088063,
+      "score": 0.0
+    },
+    {
+      "step": 46,
+      "normalized_step": 0.09002,
+      "score": 0.0
+    },
+    {
+      "step": 47,
+      "normalized_step": 0.091977,
+      "score": 0.0
+    },
+    {
+      "step": 48,
+      "normalized_step": 0.093933,
+      "score": 0.0
+    },
+    {
+      "step": 49,
+      "normalized_step": 0.09589,
+      "score": 0.0
+    },
+    {
+      "step": 50,
+      "normalized_step": 0.097847,
+      "score": 0.0
+    },
+    {
+      "step": 51,
+      "normalized_step": 0.099804,
+      "score": 0.0
+    },
+    {
+      "step": 52,
+      "normalized_step": 0.101761,
+      "score": 0.0
+    },
+    {
+      "step": 53,
+      "normalized_step": 0.103718,
+      "score": 0.0
+    },
+    {
+      "step": 54,
+      "normalized_step": 0.105675,
+      "score": 0.0
+    },
+    {
+      "step": 55,
+      "normalized_step": 0.107632,
+      "score": 0.0
+    },
+    {
+      "step": 56,
+      "normalized_step": 0.109589,
+      "score": 0.0
+    },
+    {
+      "step": 57,
+      "normalized_step": 0.111546,
+      "score": 0.0
+    },
+    {
+      "step": 58,
+      "normalized_step": 0.113503,
+      "score": 0.0
+    },
+    {
+      "step": 59,
+      "normalized_step": 0.11546,
+      "score": 0.0
+    },
+    {
+      "step": 60,
+      "normalized_step": 0.117417,
+      "score": 0.0
+    },
+    {
+      "step": 61,
+      "normalized_step": 0.119374,
+      "score": 0.0
+    },
+    {
+      "step": 62,
+      "normalized_step": 0.121331,
+      "score": 0.0
+    },
+    {
+      "step": 63,
+      "normalized_step": 0.123288,
+      "score": 0.0
+    },
+    {
+      "step": 64,
+      "normalized_step": 0.125245,
+      "score": 0.0
+    },
+    {
+      "step": 65,
+      "normalized_step": 0.127202,
+      "score": 0.0
+    },
+    {
+      "step": 66,
+      "normalized_step": 0.129159,
+      "score": 0.0
+    },
+    {
+      "step": 67,
+      "normalized_step": 0.131115,
+      "score": 0.0
+    },
+    {
+      "step": 68,
+      "normalized_step": 0.133072,
+      "score": 0.0
+    },
+    {
+      "step": 69,
+      "normalized_step": 0.135029,
+      "score": 0.0
+    },
+    {
+      "step": 70,
+      "normalized_step": 0.136986,
+      "score": 0.0
+    },
+    {
+      "step": 71,
+      "normalized_step": 0.138943,
+      "score": 0.0
+    },
+    {
+      "step": 72,
+      "normalized_step": 0.1409,
+      "score": 0.0
+    },
+    {
+      "step": 73,
+      "normalized_step": 0.142857,
+      "score": 0.0
+    },
+    {
+      "step": 74,
+      "normalized_step": 0.144814,
+      "score": 0.0
+    },
+    {
+      "step": 75,
+      "normalized_step": 0.146771,
+      "score": 0.0
+    },
+    {
+      "step": 76,
+      "normalized_step": 0.148728,
+      "score": 0.0
+    },
+    {
+      "step": 77,
+      "normalized_step": 0.150685,
+      "score": 0.0
+    },
+    {
+      "step": 78,
+      "normalized_step": 0.152642,
+      "score": 0.0
+    },
+    {
+      "step": 79,
+      "normalized_step": 0.154599,
+      "score": 0.0
+    },
+    {
+      "step": 80,
+      "normalized_step": 0.156556,
+      "score": 0.0
+    },
+    {
+      "step": 81,
+      "normalized_step": 0.158513,
+      "score": 0.0
+    },
+    {
+      "step": 82,
+      "normalized_step": 0.16047,
+      "score": 0.0
+    },
+    {
+      "step": 83,
+      "normalized_step": 0.162427,
+      "score": 0.0
+    },
+    {
+      "step": 84,
+      "normalized_step": 0.164384,
+      "score": 0.0
+    },
+    {
+      "step": 85,
+      "normalized_step": 0.166341,
+      "score": 0.0
+    },
+    {
+      "step": 86,
+      "normalized_step": 0.168297,
+      "score": 0.0
+    },
+    {
+      "step": 87,
+      "normalized_step": 0.170254,
+      "score": 0.0
+    },
+    {
+      "step": 88,
+      "normalized_step": 0.172211,
+      "score": 0.0
+    },
+    {
+      "step": 89,
+      "normalized_step": 0.174168,
+      "score": 0.0
+    },
+    {
+      "step": 90,
+      "normalized_step": 0.176125,
+      "score": 0.0
+    },
+    {
+      "step": 91,
+      "normalized_step": 0.178082,
+      "score": 0.0
+    },
+    {
+      "step": 92,
+      "normalized_step": 0.180039,
+      "score": 0.0
+    },
+    {
+      "step": 93,
+      "normalized_step": 0.181996,
+      "score": 0.0
+    },
+    {
+      "step": 94,
+      "normalized_step": 0.183953,
+      "score": 0.0
+    },
+    {
+      "step": 95,
+      "normalized_step": 0.18591,
+      "score": 0.0
+    },
+    {
+      "step": 96,
+      "normalized_step": 0.187867,
+      "score": 0.0
+    },
+    {
+      "step": 97,
+      "normalized_step": 0.189824,
+      "score": 0.0
+    },
+    {
+      "step": 98,
+      "normalized_step": 0.191781,
+      "score": 0.0
+    },
+    {
+      "step": 99,
+      "normalized_step": 0.193738,
+      "score": 0.0
+    },
+    {
+      "step": 100,
+      "normalized_step": 0.195695,
+      "score": 0.0
+    },
+    {
+      "step": 101,
+      "normalized_step": 0.197652,
+      "score": 0.0
+    },
+    {
+      "step": 102,
+      "normalized_step": 0.199609,
+      "score": 0.0
+    },
+    {
+      "step": 103,
+      "normalized_step": 0.201566,
+      "score": 0.0
+    },
+    {
+      "step": 104,
+      "normalized_step": 0.203523,
+      "score": 0.0
+    },
+    {
+      "step": 105,
+      "normalized_step": 0.205479,
+      "score": 0.0
+    },
+    {
+      "step": 106,
+      "normalized_step": 0.207436,
+      "score": 0.0
+    },
+    {
+      "step": 107,
+      "normalized_step": 0.209393,
+      "score": 0.0
+    },
+    {
+      "step": 108,
+      "normalized_step": 0.21135,
+      "score": 0.0
+    },
+    {
+      "step": 109,
+      "normalized_step": 0.213307,
+      "score": 0.0
+    },
+    {
+      "step": 110,
+      "normalized_step": 0.215264,
+      "score": 0.0
+    },
+    {
+      "step": 111,
+      "normalized_step": 0.217221,
+      "score": 0.0
+    },
+    {
+      "step": 112,
+      "normalized_step": 0.219178,
+      "score": 0.0
+    },
+    {
+      "step": 113,
+      "normalized_step": 0.221135,
+      "score": 0.0
+    },
+    {
+      "step": 114,
+      "normalized_step": 0.223092,
+      "score": 0.0
+    },
+    {
+      "step": 115,
+      "normalized_step": 0.225049,
+      "score": 0.0
+    },
+    {
+      "step": 116,
+      "normalized_step": 0.227006,
+      "score": 0.0
+    },
+    {
+      "step": 117,
+      "normalized_step": 0.228963,
+      "score": 0.0
+    },
+    {
+      "step": 118,
+      "normalized_step": 0.23092,
+      "score": 0.0
+    },
+    {
+      "step": 119,
+      "normalized_step": 0.232877,
+      "score": 0.0
+    },
+    {
+      "step": 120,
+      "normalized_step": 0.234834,
+      "score": 0.0
+    },
+    {
+      "step": 121,
+      "normalized_step": 0.236791,
+      "score": 0.0
+    },
+    {
+      "step": 122,
+      "normalized_step": 0.238748,
+      "score": 0.0
+    },
+    {
+      "step": 123,
+      "normalized_step": 0.240705,
+      "score": 0.0
+    },
+    {
+      "step": 124,
+      "normalized_step": 0.242661,
+      "score": 0.0
+    },
+    {
+      "step": 125,
+      "normalized_step": 0.244618,
+      "score": 0.0
+    },
+    {
+      "step": 126,
+      "normalized_step": 0.246575,
+      "score": 0.0
+    },
+    {
+      "step": 127,
+      "normalized_step": 0.248532,
+      "score": 0.0
+    },
+    {
+      "step": 128,
+      "normalized_step": 0.250489,
+      "score": 0.0
+    },
+    {
+      "step": 129,
+      "normalized_step": 0.252446,
+      "score": 0.0
+    },
+    {
+      "step": 130,
+      "normalized_step": 0.254403,
+      "score": 0.0
+    },
+    {
+      "step": 131,
+      "normalized_step": 0.25636,
+      "score": 0.0
+    },
+    {
+      "step": 132,
+      "normalized_step": 0.258317,
+      "score": 0.0
+    },
+    {
+      "step": 133,
+      "normalized_step": 0.260274,
+      "score": 0.0
+    },
+    {
+      "step": 134,
+      "normalized_step": 0.262231,
+      "score": 0.0
+    },
+    {
+      "step": 135,
+      "normalized_step": 0.264188,
+      "score": 0.0
+    },
+    {
+      "step": 136,
+      "normalized_step": 0.266145,
+      "score": 0.0
+    },
+    {
+      "step": 137,
+      "normalized_step": 0.268102,
+      "score": 0.0
+    },
+    {
+      "step": 138,
+      "normalized_step": 0.270059,
+      "score": 0.0
+    },
+    {
+      "step": 139,
+      "normalized_step": 0.272016,
+      "score": 0.0
+    },
+    {
+      "step": 140,
+      "normalized_step": 0.273973,
+      "score": 0.0
+    },
+    {
+      "step": 141,
+      "normalized_step": 0.27593,
+      "score": 0.0
+    },
+    {
+      "step": 142,
+      "normalized_step": 0.277886,
+      "score": 0.0
+    },
+    {
+      "step": 143,
+      "normalized_step": 0.279843,
+      "score": 0.0
+    },
+    {
+      "step": 144,
+      "normalized_step": 0.2818,
+      "score": 0.0
+    },
+    {
+      "step": 145,
+      "normalized_step": 0.283757,
+      "score": 0.0
+    },
+    {
+      "step": 146,
+      "normalized_step": 0.285714,
+      "score": 0.0
+    },
+    {
+      "step": 147,
+      "normalized_step": 0.287671,
+      "score": 0.0
+    },
+    {
+      "step": 148,
+      "normalized_step": 0.289628,
+      "score": 0.0
+    },
+    {
+      "step": 149,
+      "normalized_step": 0.291585,
+      "score": 0.0
+    },
+    {
+      "step": 150,
+      "normalized_step": 0.293542,
+      "score": 0.0
+    },
+    {
+      "step": 151,
+      "normalized_step": 0.295499,
+      "score": 0.0
+    },
+    {
+      "step": 152,
+      "normalized_step": 0.297456,
+      "score": 0.0
+    },
+    {
+      "step": 153,
+      "normalized_step": 0.299413,
+      "score": 0.0
+    },
+    {
+      "step": 154,
+      "normalized_step": 0.30137,
+      "score": 0.0
+    },
+    {
+      "step": 155,
+      "normalized_step": 0.303327,
+      "score": 0.0
+    },
+    {
+      "step": 156,
+      "normalized_step": 0.305284,
+      "score": 0.0
+    },
+    {
+      "step": 157,
+      "normalized_step": 0.307241,
+      "score": 0.0
+    },
+    {
+      "step": 158,
+      "normalized_step": 0.309198,
+      "score": 0.0
+    },
+    {
+      "step": 159,
+      "normalized_step": 0.311155,
+      "score": 0.0
+    },
+    {
+      "step": 160,
+      "normalized_step": 0.313112,
+      "score": 0.0
+    },
+    {
+      "step": 161,
+      "normalized_step": 0.315068,
+      "score": 0.0
+    },
+    {
+      "step": 162,
+      "normalized_step": 0.317025,
+      "score": 0.0
+    },
+    {
+      "step": 163,
+      "normalized_step": 0.318982,
+      "score": 0.0
+    },
+    {
+      "step": 164,
+      "normalized_step": 0.320939,
+      "score": 0.0
+    },
+    {
+      "step": 165,
+      "normalized_step": 0.322896,
+      "score": 0.0
+    },
+    {
+      "step": 166,
+      "normalized_step": 0.324853,
+      "score": 0.0
+    },
+    {
+      "step": 167,
+      "normalized_step": 0.32681,
+      "score": 0.0
+    },
+    {
+      "step": 168,
+      "normalized_step": 0.328767,
+      "score": 0.0
+    },
+    {
+      "step": 169,
+      "normalized_step": 0.330724,
+      "score": 0.0
+    },
+    {
+      "step": 170,
+      "normalized_step": 0.332681,
+      "score": 0.0
+    },
+    {
+      "step": 171,
+      "normalized_step": 0.334638,
+      "score": -0.2
+    },
+    {
+      "step": 172,
+      "normalized_step": 0.336595,
+      "score": -0.4
+    },
+    {
+      "step": 173,
+      "normalized_step": 0.338552,
+      "score": -0.6
+    },
+    {
+      "step": 174,
+      "normalized_step": 0.340509,
+      "score": -0.8
+    }
+  ],
+  "timestamp": "2026-04-05T23:11:19"
+}

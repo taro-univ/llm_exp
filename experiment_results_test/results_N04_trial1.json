@@ -1,0 +1,111 @@
+{
+  "N": 4,
+  "trial": 1,
+  "provider": "ollama",
+  "model": "deepseek-r1:14b",
+  "accuracy": 1,
+  "final_score": 1.0,
+  "token_count": 3394,
+  "move_count": 15,
+  "min_moves": 15,
+  "moves": [
+    "Move 1 from A to B",
+    "Move 2 from A to C",
+    "Move 1 from B to C",
+    "Move 3 from A to B",
+    "Move 1 from C to A",
+    "Move 2 from C to B",
+    "Move 1 from A to B",
+    "Move 4 from A to C",
+    "Move 1 from B to C",
+    "Move 2 from B to A",
+    "Move 1 from C to A",
+    "Move 3 from B to C",
+    "Move 1 from A to B",
+    "Move 2 from A to C",
+    "Move 1 from B to C"
+  ],
+  "trajectory": [
+    {
+      "step": 0,
+      "normalized_step": 0.0,
+      "score": 0.0
+    },
+    {
+      "step": 1,
+      "normalized_step": 0.066667,
+      "score": 0.0
+    },
+    {
+      "step": 2,
+      "normalized_step": 0.133333,
+      "score": 0.0
+    },
+    {
+      "step": 3,
+      "normalized_step": 0.2,
+      "score": 0.0
+    },
+    {
+      "step": 4,
+      "normalized_step": 0.266667,
+      "score": 0.0
+    },
+    {
+      "step": 5,
+      "normalized_step": 0.333333,
+      "score": 0.0
+    },
+    {
+      "step": 6,
+      "normalized_step": 0.4,
+      "score": 0.0
+    },
+    {
+      "step": 7,
+      "normalized_step": 0.466667,
+      "score": 0.0
+    },
+    {
+      "step": 8,
+      "normalized_step": 0.533333,
+      "score": 0.225
+    },
+    {
+      "step": 9,
+      "normalized_step": 0.6,
+      "score": 0.225
+    },
+    {
+      "step": 10,
+      "normalized_step": 0.666667,
+      "score": 0.225
+    },
+    {
+      "step": 11,
+      "normalized_step": 0.733333,
+      "score": 0.225
+    },
+    {
+      "step": 12,
+      "normalized_step": 0.8,
+      "score": 0.45
+    },
+    {
+      "step": 13,
+      "normalized_step": 0.866667,
+      "score": 0.45
+    },
+    {
+      "step": 14,
+      "normalized_step": 0.933333,
+      "score": 0.675
+    },
+    {
+      "step": 15,
+      "normalized_step": 1.0,
+      "score": 1.0
+    }
+  ],
+  "timestamp": "2026-04-07T00:31:59"
+}

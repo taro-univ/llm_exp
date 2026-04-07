@@ -1,0 +1,27 @@
+============================================================
+  Tower of Hanoi - LLM Reasoning Phase Transition
+============================================================
+  provider   : ollama
+  model      : deepseek-r1:14b
+  N range    : 2 ~ 3
+  trials/N   : 1
+  output_dir : experiment_results_test
+  save_fig   : phase_diagram.png
+
+
+[N= 2]  min_moves=3
+  trial 1/1  [OK]  tokens=  659  final_score=+1.000  traj_pts=4
+
+[N= 3]  min_moves=7
+  trial 1/1  [OK]  tokens= 2186  final_score=+1.000  traj_pts=8
+
+保存完了: experiment_results_test/
+
+--- summary ---
+    N    acc    tokens    score
+  -----------------------------
+  N= 2  [OK  ]  acc=1.00  tokens=  659.0  score=+1.000
+  N= 3  [OK  ]  acc=1.00  tokens= 2186.0  score=+1.000
+
+保存: phase_diagram.png
+完了。

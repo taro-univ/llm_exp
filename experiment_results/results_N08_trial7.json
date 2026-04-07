@@ -1,0 +1,405 @@
+{
+  "N": 8,
+  "trial": 7,
+  "provider": "ollama",
+  "model": "deepseek-r1:14b",
+  "accuracy": 0,
+  "final_score": -1.0,
+  "token_count": 4026,
+  "move_count": 64,
+  "min_moves": 255,
+  "moves": [
+    "Move 1 from A to B",
+    "Move 2 from A to C",
+    "Move 1 from B to C",
+    "Move 3 from A to B",
+    "Move 1 from C to A",
+    "Move 2 from C to B",
+    "Move 1 from A to B",
+    "Move 4 from A to C",
+    "Move 1 from B to C",
+    "Move 2 from B to A",
+    "Move 1 from C to A",
+    "Move 3 from B to C",
+    "Move 1 from A to B",
+    "Move 2 from A to C",
+    "Move 1 from B to C",
+    "Move 5 from A to B",
+    "Move 1 from C to A",
+    "Move 2 from C to B",
+    "Move 1 from A to B",
+    "Move 3 from C to A",
+    "Move 1 from B to C",
+    "Move 2 from B to A",
+    "Move 1 from C to A",
+    "Move 4 from C to B",
+    "Move 1 from A to B",
+    "Move 2 from A to C",
+    "Move 1 from B to C",
+    "Move 5 from B to A",
+    "Move 1 from C to A",
+    "Move 2 from C to B",
+    "Move 1 from A to B",
+    "Move 3 from A to C",
+    "Move 1 from B to C",
+    "Move 2 from B to A",
+    "Move 1 from C to A",
+    "Move 6 from A to B",
+    "Move 1 from C to A",
+    "Move 2 from A to B",
+    "Move 1 from A to C",
+    "Move 3 from C to B",
+    "Move 1 from B to A",
+    "Move 2 from B to C",
+    "Move 1 from A to C",
+    "Move 4 from C to A",
+    "Move 1 from B to A",
+    "Move 2 from C to A",
+    "Move 1 from C to B",
+    "Move 5 from B to C",
+    "Move 1 from A to B",
+    "Move 2 from A to C",
+    "Move 1 from B to C",
+    "Move 6 from B to A",
+    "Move 1 from C to A",
+    "Move 2 from C to B",
+    "Move 1 from A to B",
+    "Move 3 from C to A",
+    "Move 1 from B to C",
+    "Move 2 from B to A",
+    "Move 1 from C to A",
+    "Move 4 from C to B",
+    "Move 1 from A to B",
+    "Move 2 from A to C",
+    "Move 1 from B to C",
+    "Move 7 from A to B"
+  ],
+  "trajectory": [
+    {
+      "step": 0,
+      "normalized_step": 0.0,
+      "score": 0.0
+    },
+    {
+      "step": 1,
+      "normalized_step": 0.003922,
+      "score": 0.0
+    },
+    {
+      "step": 2,
+      "normalized_step": 0.007843,
+      "score": 0.0
+    },
+    {
+      "step": 3,
+      "normalized_step": 0.011765,
+      "score": 0.0
+    },
+    {
+      "step": 4,
+      "normalized_step": 0.015686,
+      "score": 0.0
+    },
+    {
+      "step": 5,
+      "normalized_step": 0.019608,
+      "score": 0.0
+    },
+    {
+      "step": 6,
+      "normalized_step": 0.023529,
+      "score": 0.0
+    },
+    {
+      "step": 7,
+      "normalized_step": 0.027451,
+      "score": 0.0
+    },
+    {
+      "step": 8,
+      "normalized_step": 0.031373,
+      "score": 0.0
+    },
+    {
+      "step": 9,
+      "normalized_step": 0.035294,
+      "score": 0.0
+    },
+    {
+      "step": 10,
+      "normalized_step": 0.039216,
+      "score": 0.0
+    },
+    {
+      "step": 11,
+      "normalized_step": 0.043137,
+      "score": 0.0
+    },
+    {
+      "step": 12,
+      "normalized_step": 0.047059,
+      "score": 0.0
+    },
+    {
+      "step": 13,
+      "normalized_step": 0.05098,
+      "score": 0.0
+    },
+    {
+      "step": 14,
+      "normalized_step": 0.054902,
+      "score": 0.0
+    },
+    {
+      "step": 15,
+      "normalized_step": 0.058824,
+      "score": 0.0
+    },
+    {
+      "step": 16,
+      "normalized_step": 0.062745,
+      "score": 0.0
+    },
+    {
+      "step": 17,
+      "normalized_step": 0.066667,
+      "score": 0.0
+    },
+    {
+      "step": 18,
+      "normalized_step": 0.070588,
+      "score": 0.0
+    },
+    {
+      "step": 19,
+      "normalized_step": 0.07451,
+      "score": 0.0
+    },
+    {
+      "step": 20,
+      "normalized_step": 0.078431,
+      "score": 0.0
+    },
+    {
+      "step": 21,
+      "normalized_step": 0.082353,
+      "score": 0.0
+    },
+    {
+      "step": 22,
+      "normalized_step": 0.086275,
+      "score": 0.0
+    },
+    {
+      "step": 23,
+      "normalized_step": 0.090196,
+      "score": 0.0
+    },
+    {
+      "step": 24,
+      "normalized_step": 0.094118,
+      "score": 0.0
+    },
+    {
+      "step": 25,
+      "normalized_step": 0.098039,
+      "score": 0.0
+    },
+    {
+      "step": 26,
+      "normalized_step": 0.101961,
+      "score": 0.0
+    },
+    {
+      "step": 27,
+      "normalized_step": 0.105882,
+      "score": 0.0
+    },
+    {
+      "step": 28,
+      "normalized_step": 0.109804,
+      "score": -0.2
+    },
+    {
+      "step": 29,
+      "normalized_step": 0.113725,
+      "score": -0.2
+    },
+    {
+      "step": 30,
+      "normalized_step": 0.117647,
+      "score": -0.2
+    },
+    {
+      "step": 31,
+      "normalized_step": 0.121569,
+      "score": -0.2
+    },
+    {
+      "step": 32,
+      "normalized_step": 0.12549,
+      "score": -0.2
+    },
+    {
+      "step": 33,
+      "normalized_step": 0.129412,
+      "score": -0.2
+    },
+    {
+      "step": 34,
+      "normalized_step": 0.133333,
+      "score": -0.2
+    },
+    {
+      "step": 35,
+      "normalized_step": 0.137255,
+      "score": -0.2
+    },
+    {
+      "step": 36,
+      "normalized_step": 0.141176,
+      "score": -0.4
+    },
+    {
+      "step": 37,
+      "normalized_step": 0.145098,
+      "score": -0.6
+    },
+    {
+      "step": 38,
+      "normalized_step": 0.14902,
+      "score": -0.8
+    },
+    {
+      "step": 39,
+      "normalized_step": 0.152941,
+      "score": -0.8
+    },
+    {
+      "step": 40,
+      "normalized_step": 0.156863,
+      "score": -1.0
+    },
+    {
+      "step": 41,
+      "normalized_step": 0.160784,
+      "score": -1.0
+    },
+    {
+      "step": 42,
+      "normalized_step": 0.164706,
+      "score": -1.0
+    },
+    {
+      "step": 43,
+      "normalized_step": 0.168627,
+      "score": -1.0
+    },
+    {
+      "step": 44,
+      "normalized_step": 0.172549,
+      "score": -1.0
+    },
+    {
+      "step": 45,
+      "normalized_step": 0.176471,
+      "score": -1.0
+    },
+    {
+      "step": 46,
+      "normalized_step": 0.180392,
+      "score": -1.0
+    },
+    {
+      "step": 47,
+      "normalized_step": 0.184314,
+      "score": -1.0
+    },
+    {
+      "step": 48,
+      "normalized_step": 0.188235,
+      "score": -1.0
+    },
+    {
+      "step": 49,
+      "normalized_step": 0.192157,
+      "score": -1.0
+    },
+    {
+      "step": 50,
+      "normalized_step": 0.196078,
+      "score": -1.0
+    },
+    {
+      "step": 51,
+      "normalized_step": 0.2,
+      "score": -1.0
+    },
+    {
+      "step": 52,
+      "normalized_step": 0.203922,
+      "score": -1.0
+    },
+    {
+      "step": 53,
+      "normalized_step": 0.207843,
+      "score": -1.0
+    },
+    {
+      "step": 54,
+      "normalized_step": 0.211765,
+      "score": -1.0
+    },
+    {
+      "step": 55,
+      "normalized_step": 0.215686,
+      "score": -1.0
+    },
+    {
+      "step": 56,
+      "normalized_step": 0.219608,
+      "score": -1.0
+    },
+    {
+      "step": 57,
+      "normalized_step": 0.223529,
+      "score": -1.0
+    },
+    {
+      "step": 58,
+      "normalized_step": 0.227451,
+      "score": -1.0
+    },
+    {
+      "step": 59,
+      "normalized_step": 0.231373,
+      "score": -1.0
+    },
+    {
+      "step": 60,
+      "normalized_step": 0.235294,
+      "score": -1.0
+    },
+    {
+      "step": 61,
+      "normalized_step": 0.239216,
+      "score": -1.0
+    },
+    {
+      "step": 62,
+      "normalized_step": 0.243137,
+      "score": -1.0
+    },
+    {
+      "step": 63,
+      "normalized_step": 0.247059,
+      "score": -1.0
+    },
+    {
+      "step": 64,
+      "normalized_step": 0.25098,
+      "score": -1.0
+    }
+  ],
+  "timestamp": "2026-04-07T05:31:20"
+}
