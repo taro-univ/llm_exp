@@ -1,0 +1,20 @@
+# Python 関連のキャッシュ
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# 実験結果の画像 (PNG, JPG)
+*.png
+*.jpg
+*.jpeg
+
+# 実験ログ（大量の JSON データ）
+experiment_results/
+exp_N9_deepseek_3d_results/
+
+# エディタ・OS 関連の設定
+.vscode/
+.DS_Store
+Thumbs.db
