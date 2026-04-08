@@ -18,3 +18,12 @@ exp_N9_deepseek_3d_results/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# データベースのデータ本体
+postgres_data/
+# Pythonの仮想環境
+.venv/
+# キャッシュ
+__pycache__/
+# (任意) 実験結果の生JSON
+experiment_results/

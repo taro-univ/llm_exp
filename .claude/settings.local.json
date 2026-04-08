@@ -7,7 +7,13 @@
       "Bash(pip install:*)",
       "Bash(wsl:*)",
       "Bash(cmd:*)",
-      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(list\\(d.keys\\(\\)\\)\\)\")"
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(list\\(d.keys\\(\\)\\)\\)\")",
+      "Bash(.venv/Scripts/python.exe -)",
+      "Bash(C:/Users/shona/llm_exp/.venv/bin/python:*)",
+      "Bash(/c/Users/shona/llm_exp/.venv/bin/python:*)",
+      "Bash(python3:*)",
+      "Bash(docker compose ps:*)",
+      "Bash(docker compose exec:*)"
     ]
   }
 }

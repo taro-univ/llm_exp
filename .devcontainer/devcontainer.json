@@ -1,0 +1,17 @@
+{
+    "name": "LLM Research with DB",
+    "dockerComposeFile": "../docker-compose.yml",
+    "service": "app",
+    "workspaceFolder": "/workspace",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-toolsai.jupyter",
+                "mtxr.sqltools",
+                "mtxr.sqltools-driver-pg"
+            ]
+        }
+    },
+    "remoteUser": "root"
+}
